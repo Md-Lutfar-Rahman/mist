@@ -1,0 +1,9 @@
+.image-director{
+    float: left;
+    margin-right: 10px;
+}
+.text-director{
+    text-align: justify;
+    margin-bottom: 30px;
+    color:slategrey;
+}
